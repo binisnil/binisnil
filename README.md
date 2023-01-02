@@ -1,5 +1,5 @@
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28&height=280&section=header&text=I'M%20BINISNULL👋&fontSize=70&animation=fadeIn&fontAlignY=38&desc=bin&#61;&#61;null&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28&height=280&section=header&text=Hi!%20I'M%20BINISNULL👋&fontSize=70&animation=fadeIn&fontAlignY=38&desc=bin&#61;&#61;null&descAlignY=51&descAlign=62)
 -------
 <div aligen=center>
   
